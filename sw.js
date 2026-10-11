@@ -1,12 +1,13 @@
 /* 数字大外 · 离线缓存：装到手机主屏后断网也能打开
    改了 index.html 之后，把下面的版本号 +1，手机端下次打开就会自动更新 */
-var CACHE = "dawa-v4";
+var CACHE = "dawa-v5";
 var ASSETS = [
   "./",
   "./index.html",
   "./manifest.webmanifest",
   "./icons/icon-192.png",
   "./icons/icon-512.png",
+  "./icons/icon-maskable-512.png",
   "./icons/apple-touch-icon.png"
 ];
 
