@@ -1,0 +1,19 @@
+{
+  "name": "数字大外 · 校园活动与通知聚合",
+  "short_name": "数字大外",
+  "description": "把学校的活动通知聚合到一起，让每个同学都能收到、都能参与。",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#F4F6FA",
+  "theme_color": "#FF7A45",
+  "categories": ["education", "social"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
